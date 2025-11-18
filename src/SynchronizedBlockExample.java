@@ -11,6 +11,7 @@ public class SynchronizedBlockExample {
     public int getCount() {
         return count;
     }
+
 }
 
 
