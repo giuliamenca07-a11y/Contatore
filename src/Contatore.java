@@ -7,6 +7,7 @@ public class Contatore {
  public void run(){
         int i = 0;
         while(i<5000){
+            increment();
             i++;
         }
  }
